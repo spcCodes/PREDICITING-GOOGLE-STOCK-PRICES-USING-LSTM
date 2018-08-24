@@ -5,7 +5,7 @@ In this project we will try to predict the stock price of Google using LSTM. Tho
 # The entire project is being discussed in detail in the python notebook StockPriceLSTM
 
 
-Dataset used: given in the file \
+Dataset used: given in the file 
 
 Language : Python Packages : sklearn , matplotlib , LSTM \
 
